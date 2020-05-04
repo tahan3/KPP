@@ -20,6 +20,7 @@ public class Menu {
         menuOwner = new Owner();
 
         menu = new JFrame("Menu");
+        menu.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         menuPanel = new JPanel();
 
