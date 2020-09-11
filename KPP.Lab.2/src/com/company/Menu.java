@@ -19,8 +19,10 @@ public class Menu {
     Menu() {
 
         menu = new JFrame("Menu");
+        menu.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         menuPanel = new JPanel();
+        menuPanel.setBackground(Color.BLACK);
 
         poodleBtn = new JButton("Poodle");
         poodleBtn.addActionListener(new ActionListener() {
