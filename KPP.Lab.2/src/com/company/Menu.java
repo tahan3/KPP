@@ -17,12 +17,15 @@ public class Menu {
     MaGUI nextWindow;
 
     Menu() {
-
         menu = new JFrame("Menu");
+        menu.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        menu.setSize(160,180);
 
         menuPanel = new JPanel();
+        menuPanel.setBackground(Color.BLACK);
 
         poodleBtn = new JButton("Poodle");
+        poodleBtn.setBackground(Color.WHITE);
         poodleBtn.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 menuOwner = new Owner("Poodle");
@@ -34,6 +37,7 @@ public class Menu {
         menuPanel.add(poodleBtn);
 
         terrierBtn = new JButton("Terrier");
+        terrierBtn.setBackground(Color.RED);
         terrierBtn.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 menuOwner = new Owner("Terrier");
@@ -45,6 +49,7 @@ public class Menu {
         menuPanel.add(terrierBtn);
 
         shepherdBtn = new JButton("Shepherd Dog");
+        shepherdBtn.setBackground(Color.WHITE);
         shepherdBtn.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 menuOwner = new Owner("Shepherd Dog");
@@ -56,7 +61,7 @@ public class Menu {
         menuPanel.add(shepherdBtn);
 
         menu.getContentPane().add(menuPanel);
-        menu.pack();
+        //menu.pack();
         menu.setLocationRelativeTo(null);
     }
 }

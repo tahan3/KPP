@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 public class MaGUI {
-    //Owner owner;
     JFrame window, menu;
     ImageIcon img;
     JPanel panel, menuPanel;
@@ -27,8 +26,10 @@ public class MaGUI {
         window.setIconImage(img.getImage());
 
         panel = new JPanel();
+        panel.setBackground(Color.BLACK);
 
         foodInfo = new JLabel("Amount of food: "+owner.dogFood.getFood());
+        foodInfo.setBackground(Color.WHITE);
         panel.add(foodInfo);
 
         dogInfo = new JLabel("Dog info: "+owner.dog.getInfo());
@@ -40,6 +41,7 @@ public class MaGUI {
         panel.add(commandName);
 
         commandBtn = new JButton("give command");
+        commandBtn.setBackground(Color.CYAN);
         commandBtn.addActionListener(new ActionListener()
         {
             public void actionPerformed(ActionEvent e)
