@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 public class MaGUI {
-    //Owner owner;
     JFrame window, menu;
     ImageIcon img;
     JPanel panel, menuPanel;
@@ -27,6 +26,7 @@ public class MaGUI {
         window.setIconImage(img.getImage());
 
         panel = new JPanel();
+        panel.setBackground(Color.CYAN);
 
         foodInfo = new JLabel("Amount of food: "+owner.dogFood.getFood());
         panel.add(foodInfo);
@@ -35,7 +35,7 @@ public class MaGUI {
         panel.add(dogInfo);
 
         commandName = new JTextField();
-        commandName.setBackground(Color.WHITE);
+        commandName.setBackground(Color.GREEN);
         commandName.setColumns(14);
         panel.add(commandName);
 
