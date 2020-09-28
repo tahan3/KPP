@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30cffc85-fcb4-4f7d-b17e-12caf06aef0d" name="Default Changelist" comment="" />
+    <list default="true" id="30cffc85-fcb4-4f7d-b17e-12caf06aef0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/MaGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/MaGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/MaGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/MaGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Owner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Owner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Poodle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Poodle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/ShepherdDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/ShepherdDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Terrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KPP.Lab.2/com/company/Terrier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/MaGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MaGUI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,17 +36,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZM7H4Bjq2Dx8SozoffFTtXbiBV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testich" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -60,33 +88,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588578580435">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1601289521596">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588578580435" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1588578438551">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1601289521596" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601289726404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588578438551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1588578438551">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601289726404" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601289726404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588578438551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1588578438551">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601289726404" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601289726404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588578438551" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1588578438551">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601289726404" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601289726404">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588578438551" />
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588578575583">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588578575583" />
-    <state x="209" y="33" key="new project wizard" timestamp="1586962333569">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586962333569" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601289726404" />
   </component>
 </project>
